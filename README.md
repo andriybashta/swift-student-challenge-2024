@@ -14,7 +14,7 @@ Features:
 - SwiftUI, SwiftData, Charts
 
 0. Intro
-<img src="https://raw.githubusercontent.com/andriybashta/swift-student-challenge-2024/blob/main/Intro.png"/>
+<img src="https://raw.githubusercontent.com/andriybashta/swift-student-challenge-2024/main/Intro.png"/>
 
 1. Projects list
 <img src="https://raw.githubusercontent.com/andriybashta/swift-student-challenge-2024/main/ProjectsList.png"/>
