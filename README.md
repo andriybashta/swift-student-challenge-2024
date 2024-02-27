@@ -1,5 +1,4 @@
-# Business Planner for Indie Developers. WWDC24 SSC submission
-Business Planner for Indie Developers. Submission for Swift Student Challenge 2024
+# Business Planner for Indie Developers. Submission for WWDC Swift Student Challenge 2024
 
 Indie App Business Planner is a macOS app designed for independent developers who want to effectively manage their projects in the AppStore.
 
